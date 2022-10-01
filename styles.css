@@ -8,7 +8,12 @@
     width: 700px;
 }
 
+.images{
+    height: auto;
+    width: 300px;
+}
+
 .hyperlinks{
-    font-size: 25px;
+    font-size: 20px;
 }
 
